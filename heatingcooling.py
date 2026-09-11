@@ -1,3 +1,4 @@
+# Josh Jeon and CJ (Christopher) Priedel
 # Utility company would like to have an estimate of energy requirements for a few days. If (average) temperature during a day is below 60 degrees Farenheit, 
 # that day is considered to be a heating day (people are very likely to run a heater in their houses on such day). 
 # If the temperature is above 80F, this day is considered a cooling day (people are very likely to turn on A/C on such day). 
