@@ -1,3 +1,5 @@
+# Josh Jeon and CJ (Christopher) Priedel
+
 # Write a function ```countchars(st)``` that take a string as a parameter and returns the number of characters in this string excluding spaces, periods, exclamation points, or commas.
 
 # Ex: If the arugment is:
